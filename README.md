@@ -2,7 +2,7 @@
 
 [![codecov](https://codecov.io/gh/ucsb-cs156-s22/jpa03-E-R-E-N/branch/main/graph/badge.svg?token=tEDFm7vuNR)](https://codecov.io/gh/ucsb-cs156-s22/jpa03-E-R-E-N)
 
-#Github repo
+# Github repo
 
 * repo: <https://github.com/ucsb-cs156-s22/jpa03-E-R-E-N>
 
